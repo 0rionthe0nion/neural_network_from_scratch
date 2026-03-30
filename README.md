@@ -1,7 +1,7 @@
 # Neural Network from Scratch
 
 ## Overview
-Implemented a basic neural network based on StatQuest with Josh Starmer's "Backpropagation Details Pt. 2: Going Bonkers with the Chain Rule" on Youtube. 
+This project implements a basic neural network based on StatQuest with Josh Starmer's "Backpropagation Details Pt. 2: Going Bonkers with the Chain Rule" on Youtube. 
 
 No machine learning libraries was used in the building of this model. The final implementation was refined for clarity and structure with assistance from AI tools.
 
