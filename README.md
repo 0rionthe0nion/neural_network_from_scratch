@@ -5,6 +5,9 @@ This project implements a basic neural network based on StatQuest with Josh Star
 
 No machine learning libraries was used in the building of this model. The final implementation was refined for clarity and structure with assistance from AI tools.
 
+## Running the Project
+Download `neural_network_training_and_visualization.py`, change hyperparameters under `Configration` as needed, change parameters under `Initialize neural network parameters` as needed, and run the file.
+
 ## Tech Used
 - Python
 - Matplotlib
