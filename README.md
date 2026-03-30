@@ -28,4 +28,4 @@ No machine learning libraries was used in the building of this model. The final 
 
 ## Development Notes
 - Experimented with ReLU, LeakyReLU, and Parametric ReLU activation functions
-- Used Xavier initialization to improve starting conditions
+- Used Xavier initialization to improve starting parameters
