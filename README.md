@@ -3,10 +3,10 @@
 ## Overview
 This project implements a basic neural network based on StatQuest with Josh Starmer's "Backpropagation Details Pt. 2: Going Bonkers with the Chain Rule" on Youtube. 
 
-No machine learning libraries was used in the building of this model. The final implementation was refined for clarity and structure with assistance from AI tools.
+No machine learning libraries were used in the building of this model. The final implementation was refined for clarity and structure with assistance from AI tools.
 
 ## Running the Project
-Download `neural_network_training_and_visualization.py`, change hyperparameters under `# Configration` as needed, change parameters under `# Initialize neural network parameters` as needed, and run the file.
+Download `neural_network_training_and_visualization.py`, change hyperparameters under `# Configuration` as needed, change parameters under `# Initialize neural network parameters` as needed, and run the file.
 
 ## Tech Used
 - Python
@@ -14,7 +14,7 @@ Download `neural_network_training_and_visualization.py`, change hyperparameters 
 
 ## Features
 - Customizable initial weights and biases
-- Foward pass and backprogration
+- Forward pass and backpropagation
 - Softplus activation function
 - Gradient descent optimization using loss minimization
 - Visualization of training process (parameter updates and step tracking)
@@ -30,5 +30,4 @@ Download `neural_network_training_and_visualization.py`, change hyperparameters 
 - Debugging training issues
 
 ## Development Notes
-- Experimented with ReLU, LeakyReLU, and Parametric ReLU activation functions
-- Used Xavier initialization to improve starting parameters
+- Explored ReLU, Leaky ReLU, and ELU (trainable alpha) activations, plus Xavier weight initialization, in early exploratory versions. These are in [`experiments/`](experiments/) and were not cleaned up or verified.
