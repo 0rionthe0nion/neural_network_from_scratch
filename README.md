@@ -13,6 +13,7 @@ Download `neural_network_training_and_visualization.py`, change hyperparameters 
 - Matplotlib
 
 ## Features
+- 2 hidden nodes (4 weights, 3 biases) trained on 3 data points
 - Customizable initial weights and biases
 - Forward pass and backpropagation
 - Softplus activation function
