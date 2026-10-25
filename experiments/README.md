@@ -9,7 +9,7 @@ Expriments with different activations on the simple neural network (2 hidden nod
 - `AlphaELU.py`: Uses the ELU activation function with a trainable alpha. The alpha gradient is incomplete.
 
 ## Weight initialization
-- `xavier_uniform_init.py`: Creates intial parameters using Xavier (Glorot) uniform with a ReLU gain (√2).
-- `xavier_normal_init.py`:  Creates intial parameters using Xavier (Glorot) normal with a ReLU gain.
+- `xavier_uniform_init.py`: Creates intial weights using Xavier (Glorot) uniform with a ReLU gain (√2).
+- `xavier_normal_init.py`:  Creates intial weights using Xavier (Glorot) normal with a ReLU gain.
 
 The ReLU variants used Xavier-generated starting weights.
